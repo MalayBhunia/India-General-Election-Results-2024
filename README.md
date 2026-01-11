@@ -1,28 +1,23 @@
 
+## 🗳️ India General Election Results 2024 – Power BI Dashboard
 
-
-# 🗳️ India General Election Results 2024 – Power BI Dashboard
-## Recommended Structure and Order
-### 1.	📌 Project Title / Headline
-Interactive Power BI Dashboard for India’s General Election Results 2024
-
-### 2.	📝 Short Description / Purpose
+## 📝 Short Description / Purpose
 This project presents a comprehensive analysis of the 2024 Indian General Election results using Power BI. 
 The dashboard offers state-wise, party-wise, and candidate-wise insights to better understand voter patterns, party performance, and election outcomes.
 
 The purpose is to provide a clear, data-driven visualization of the largest democratic election in the world, 
 enabling political analysts, researchers, and the public to explore results in an interactive way.
 
-### 3.	⚙️ Tech Stack
+## ⚙️ Tech Stack
 • Power BI – Data visualization & dashboard creation<br>
 • DAX – Measures, KPIs, and calculated columns<br>
 • Excel / CSV – For raw data preprocessing<br>
 • GitHub – Project hosting & documentation
 
-### 4.	Data Source
+## Data Source
 • Dataset: Kaggle – India General Election 2024 Results
 
-### 5.	Features / Highlights
+## Features / Highlights
 • National-Level Overview – Total seats, winning party, and vote share distribution.<br>
 • State-Wise Results – Detailed breakdown of seats won by parties across each state.<br>
 • Party-Wise Analysis – Comparison of major political parties’ performance.<br>
@@ -32,7 +27,7 @@ enabling political analysts, researchers, and the public to explore results in a
 • Geographical Visualization – Map view of seat distribution across India.<br>
 
 
-### 6.	Screenshots / Demos
+##	Screenshots / Demos
 LANDING PAGE: ![Leading Page](https://github.com/MalayBhunia/India-General-Election-Results-2024/blob/main/Leading%20page.png)
 OVERVIEW ANALYSIS: ![OVERVIEW ANALYSISs](https://github.com/MalayBhunia/India-General-Election-Results-2024/blob/main/Overview%20page.png)
 STATE DEMOGRAPHIC ANALYSIS: ![DEMOGRAPHIC ANALYSIS](https://github.com/MalayBhunia/India-General-Election-Results-2024/blob/main/State%20Demographic%20page.png)
